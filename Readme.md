@@ -1,3 +1,3 @@
-You need install "dxruby"
+You need "dxruby"
 
 $gem install dxruby
