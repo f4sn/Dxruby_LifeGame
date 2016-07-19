@@ -2,7 +2,7 @@ require "dxruby"
 require "./class_cell"
 
 Window.width = 1900 + 1
-Window.height =1000 + 1
+Window.height = 1000 + 1
 
 
 cells = ar2init(Cell.num_x, Cell.num_y)
